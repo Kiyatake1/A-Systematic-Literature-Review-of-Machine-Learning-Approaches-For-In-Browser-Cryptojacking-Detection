@@ -1,2 +1,2 @@
-# A SYSTEMATIC LITERATURE REVIEW OF MACHINE LEARNING APPROACHES FOR IN-BROWSER CRYPTOJACKING DETECTION
+# A Systematic Literature Review of Machine Learning Approaches For In-Browser Cryptojacking Detection
 Files and figures for the systematic review.
