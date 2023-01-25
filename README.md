@@ -1,2 +1,2 @@
-# A-SYSTEMATIC-LITERATURE-REVIEW-OF-NOVEL-MACHINE-LEARNING-APPROACHES-FOR-DETECTING-CRYPTOJACKING-ATTA
+# A Systematic Literature Review of Novel Machine Learning Approaches for Detecting Cryptojacking Attacks
 Files and figures for the systematic review.
